@@ -1,0 +1,6 @@
+This will be filled with integers indicating which is the correct answer for a question based on index.
+File contents will be moved to a list in the trivia class.
+Example format:
+1
+2
+3
