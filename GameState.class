@@ -1,0 +1,10 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public enum GameState {
+   PLAY,
+   TRIVIA,
+   WIN,
+   GAME_OVER;
+
+   private GameState() {
+   }
+}
